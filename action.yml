@@ -1,0 +1,12 @@
+name: Sleep
+author: juliangruber
+description: 'Sleep for a set period of time'
+branding:
+  icon: 'tool'
+  color: purple
+inputs:
+  time:
+    description: 'A time period as ms or string (100, 10s, 1m)'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
