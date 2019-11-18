@@ -8,9 +8,9 @@ human friendly time strings.
 ```yaml
 steps:
   - name: Sleep for 10s
-      uses: juliangruber/sleep-action@v1
-      with:
-        time: 10s
+    uses: juliangruber/sleep-action@v1
+    with:
+      time: 10s
 ```
 
 ## License
