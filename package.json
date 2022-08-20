@@ -15,7 +15,7 @@
     "publish": false
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "ms": "^2.1.2"
   },
   "devDependencies": {
