@@ -8,5 +8,5 @@ inputs:
   time:
     description: 'A time period as ms or string (100, 10s, 1m)'
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'dist/index.js'
