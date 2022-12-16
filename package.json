@@ -1,7 +1,7 @@
 {
   "name": "sleep-action",
   "private": true,
-  "version": "1.0.1",
+  "version": "2.0.0",
   "license": "MIT",
   "description": "Sleep for a set period of time",
   "repository": "juliangruber/sleep-action",
