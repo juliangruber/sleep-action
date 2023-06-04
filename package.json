@@ -1,7 +1,7 @@
 {
   "name": "sleep-action",
   "private": true,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "description": "Sleep for a set period of time",
   "repository": "juliangruber/sleep-action",
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@zeit/ncc": "^0.20.5",
-    "np": "^7.6.2",
+    "np": "^8.0.2",
     "prettier-standard": "^15.0.1",
     "standard": "^14.3.1"
   }
